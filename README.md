@@ -1,5 +1,5 @@
 # Derivative-Calculator
-Notice: power of x must be greater than 0, and x must exist.
+Notice: Power of x must be greater than 0, and x must exist. Power of x can not be decimal or fraction.
 
 Sample
 
