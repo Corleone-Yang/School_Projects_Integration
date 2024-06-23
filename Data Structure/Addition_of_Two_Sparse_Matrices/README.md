@@ -7,17 +7,17 @@ You can achieve the addition of two matrices here.
 
 Sample:
 
-Input:
-3, 3 
-1 2 3
-4 5 6
-7 8 9
-
-9 8 7
-6 5 4
+Input:<br>
+3, 3<br>
+1 2 3<br>
+4 5 6<br>
+7 8 9<br>
+<br>
+9 8 7<br>
+6 5 4<br>
 3 2 1
 
-Output:
-10 10 10
-10 10 10
+Output:<br>
+10 10 10<br>
+10 10 10<br>
 10 10 10
